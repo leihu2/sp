@@ -9,12 +9,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/api-gateway" />
+            <option value="$PROJECT_DIR$/api-gateway/zuul" />
             <option value="$PROJECT_DIR$/call-chain" />
             <option value="$PROJECT_DIR$/call-chain/zipkin-clients" />
             <option value="$PROJECT_DIR$/call-chain/zipkin-clients/zipkin-client" />
             <option value="$PROJECT_DIR$/call-chain/zipkin-clients/zipkin-client0" />
             <option value="$PROJECT_DIR$/call-chain/zipkin-server" />
             <option value="$PROJECT_DIR$/config" />
+            <option value="$PROJECT_DIR$/config/config-reader" />
+            <option value="$PROJECT_DIR$/config/config-reader-with-bus" />
             <option value="$PROJECT_DIR$/config/config-server" />
             <option value="$PROJECT_DIR$/discover" />
             <option value="$PROJECT_DIR$/discover/eureka-demo-client" />
