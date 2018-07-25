@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/Gradle/gradle-4.9" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/call-chain" />
+            <option value="$PROJECT_DIR$/call-chain/zipkin-clients" />
+            <option value="$PROJECT_DIR$/call-chain/zipkin-clients/zipkin-client" />
+            <option value="$PROJECT_DIR$/call-chain/zipkin-clients/zipkin-client0" />
+            <option value="$PROJECT_DIR$/call-chain/zipkin-server" />
+            <option value="$PROJECT_DIR$/config" />
+            <option value="$PROJECT_DIR$/config/config-server" />
+            <option value="$PROJECT_DIR$/discover" />
+            <option value="$PROJECT_DIR$/discover/eureka-demo-client" />
+            <option value="$PROJECT_DIR$/discover/eureka-server" />
+            <option value="$PROJECT_DIR$/discovery" />
+            <option value="$PROJECT_DIR$/discovery/eureka-demo-client" />
+            <option value="$PROJECT_DIR$/eureka-server" />
+            <option value="$PROJECT_DIR$/routing" />
+            <option value="$PROJECT_DIR$/routing/routing-feign" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

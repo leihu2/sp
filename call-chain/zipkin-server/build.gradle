@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'springcloud-gupao'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "io.zipkin.java:zipkin-server"
+    compile "io.zipkin.java:zipkin-autoconfigure-ui"
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
