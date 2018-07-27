@@ -10,9 +10,9 @@ public class HiController {
     @Autowired
     private CallHiService callHiService;
 
-    @RequestMapping(value = "hi")
-    public String hi(@RequestParam String h){
-        return callHiService.sayHiFromClientOne(h);
+    @RequestMapping(value = "mm")
+    public String hi(@RequestParam String name){
+        return callHiService.sayHiFromClientOne(name);
     }
 
 }
